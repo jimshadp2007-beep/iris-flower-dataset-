@@ -24,7 +24,7 @@ The Iris Flower Classification project is a classic example of a machine learnin
 
 - Python
 - Scikit-Learn
-- Flask (for web application)
+
 
 ## Getting Started
 
